@@ -1,0 +1,4 @@
+AuthName "phpMyAdmin"
+AuthType Basic
+AuthUserFile /var/www/pma.onedevs.tech/.htpasswd
+Require valid-user
